@@ -1,0 +1,10 @@
+compile:
+  libraries: []
+  platforms:
+    - uno
+
+unittest:
+  libraries:
+    - libA
+  platforms:
+    - uno
